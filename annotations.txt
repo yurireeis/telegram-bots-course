@@ -1,0 +1,19 @@
+# Telegram Bot's
+
+## Configuring BotFather
+
+- BotFather will provide us power to create new bots
+- Once a bot was created, We will receive an API token to make use of the bot
+
+## configuring project
+
+- You need to install telegraf. It's a wrapper to interact with bot API
+
+## Middleware architecture
+
+- it's a widely used architecture
+- as known by "chain of responsibility"
+- it's a chain of functions, each one giving some treatment
+- middleware: do part of the job
+- you go to the next middleware calling next()
+- finalize with reply()

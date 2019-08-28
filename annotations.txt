@@ -17,3 +17,11 @@
 - middleware: do part of the job
 - you go to the next middleware calling next()
 - finalize with reply()
+
+# stage
+
+- in a stage, you have multiple scenes
+
+# scene
+
+- is like sub-topics inside the main thread

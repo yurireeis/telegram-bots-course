@@ -25,3 +25,7 @@
 # scene
 
 - is like sub-topics inside the main thread
+
+# chatID
+
+- is necessary to send messages from bot to telegram without user interaction
